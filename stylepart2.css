@@ -1,0 +1,49 @@
+body{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+ul{
+  text-decoration: none;
+}
+
+.link-ig{
+ text-decoration: none;
+ color: white;
+}
+
+.p-ig{
+  color: white;
+  margin: 5px;
+  background-color: red ;
+  border-radius: 5px;
+  padding: 10px;
+  justify-content: center;
+  display: flex ;
+  margin-right:50px;
+}
+
+img{
+  width: 94px;
+  height: 114px;
+}
+
+button{
+  background-color: red;
+  color: white;
+  margin: 3px;
+}
+
+h3{
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+}
+
+.link-gweh{
+  background-color: red;
+  border-radius: 3px;
+  color: white;
+  text-decoration: none;
+}

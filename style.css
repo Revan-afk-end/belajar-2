@@ -1,0 +1,59 @@
+body{
+  background-color: black;
+  text-align: center;
+}
+
+.h3-biodata{
+  color: white;
+}
+
+.h2-judul{
+  color: white;
+  text-align: center;
+  background-color: red;
+  border-radius:5px;
+  display: block;
+  
+}
+
+.p-biodata{
+  color: white;
+}
+
+.li-text{
+  color: white;
+  margin: 5px;
+  background-color: red ;
+  border-radius: 5px;
+  padding: 10px;
+  justify-content: center;
+  display: flex ;
+  margin-right:50px;
+}
+
+.link-biodata{
+  text-decoration: none;
+}
+
+.img-ig{
+  width: 94px;
+  height: 114px;
+}
+
+.text-p{
+  color: white;
+}
+
+.body-biodata{
+  background-color: black;
+}
+
+.link-part2{
+  color: white;
+  text-decoration: none;
+  background-color: red;
+  border-radius: 5px;
+}
+
+
+
